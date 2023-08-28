@@ -1,0 +1,364 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Agustin",
+      "surnames": "Amutxastegi Larrañaga",
+      "title": "Title",
+      "description": "Con una pasión innata por la tecnología desde mis días de estudiante de ingeniería, me sumergí de manera autodidacta en el mundo de Linux, lo que eventualmente me condujo a mi primera posición como administrador de sistemas Linux. Esta experiencia me proporcionó una base sólida para abordar proyectos desafiantes que requerían habilidades en Linux, lo que posteriormente me llevó a explorar la gestión de proyectos tecnológicos.\n\nA medida que mi carrera avanzaba, decidí expandir mis horizontes hacia la programación y el desarrollo de software. Con el tiempo, esta búsqueda me llevó al puesto actual de programador full stack. A pesar de mi evolución hacia la programación, he mantenido intacta mi habilidad y enfoque en la administración de sistemas, lo que me brinda una perspectiva única y versátil.\n\nMi enfoque resuelto hacia la solución de problemas, el trabajo en equipo y la constante mejora me define. Estoy siempre dispuesto a enfrentar nuevos desafíos y aprovechar las oportunidades para aprender y crecer en el mundo tecnológico en constante evolución.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJhVbJl_eSUA0RDop817cZqx0)",
+        "country": "España",
+        "region": "Navarra"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Xabet"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero software",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y puesta en producción de producto. Desarrollo de front-end (vue.js) y back-end (Java). Implementación de infraestructura en GCP y despliegues con Ansible."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Altran"
+        },
+        "roles": [
+          {
+            "name": "Consultor",
+            "startDate": "2017-04-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "- CAF Signalling y CAF I+D: Desarrollo de test unitarios de software C/C++ para procesos de certificaciones de seguridad utilizando VectorCast, VectorCover y CxxTest.\n- CAF Power & Automation: Departamento de ingeniería de proyectos. Gestión de proyectos para el telediagnóstico del producto ferroviario, incluyendo adaptaciones y formaciones técnicas.\n- CAF Power & Automation: Departamento de herramientas internas. Desarrollo de aplicación de escritorio Qt para la gestión de equipos embarcados."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Qt",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Enigmedia"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2015-04-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "Encargado de la gestión de las infraestructuras de producción y desarrollos. Tecnologías: Linux, despliegues con ansible, certificados, scripting, postgresql, DNS, LDAP, SOAP, virtualización, Google Cloud."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Asterisk",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "Xen",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EU",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Centos",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero industrial",
+        "startDate": "2003-09-01",
+        "institution": {
+          "name": "Universidad de Navarra",
+          "description": "Soy Ingeniero Industrial graduado de TECNUN - Universidad de Navarra en San Sebastián."
+        },
+        "finishDate": "2011-07-01",
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/agustinamu/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "agustinamu@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "658736084",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Full-stack Developer",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Ansible",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "Jenkins",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Busco un trabajo que me presente desafíos tecnológicos emocionantes, donde pueda colaborar en equipo y aprender de mis compañeros. Valoraría la oportunidad de ampliar mis habilidades y conocimientos, ya sea en administración de sistemas o programación. La flexibilidad horaria y la opción de teletrabajo son esenciales para mí, ya que me permiten equilibrar mi vida laboral y personal de manera efectiva."
+  }
+}
