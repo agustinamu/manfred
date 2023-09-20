@@ -319,6 +319,10 @@
           "type": "technology"
         },
         {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
