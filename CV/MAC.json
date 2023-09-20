@@ -351,11 +351,11 @@
         "type": "technology"
       },
       {
-        "name": "Google Cloud",
+        "name": "Linux",
         "type": "technology"
       },
       {
-        "name": "Jenkins",
+        "name": "PostgreSQL",
         "type": "technology"
       }
     ],
