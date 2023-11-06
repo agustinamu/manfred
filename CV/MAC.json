@@ -15,7 +15,13 @@
         "country": "España",
         "region": "Navarra"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/agustinamu/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
